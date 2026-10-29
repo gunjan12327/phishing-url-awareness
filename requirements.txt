@@ -1,0 +1,4 @@
+# Phishing URL Awareness Checker
+# Python 3.10 or higher
+# Standard library only: no external dependencies required.
+# Built-in modules used: urllib.parse, re
